@@ -1,8 +1,8 @@
 import media
 import fresh_tomatoes
-	"""Creates instances of the movie class and creates a list from these instances.
+"""Creates instances of the movie class and creates a list from these instances.
     
-    """
+"""
 
 sent_of_a_women = media.Movie("Sent Of a Woman", "https://upload.wikimedia.org/wikipedia/en/9/91/Scent_of_a_Woman.jpg", "https://www.youtube.com/watch?v=ebDO0C-RTpU")
 the_departed = media.Movie("The Departed", "http://www.richardcrouse.ca//wp-content/uploads/2013/09/departed.jpg","https://www.youtube.com/watch?v=SGWvwjZ0eDc")
