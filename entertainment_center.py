@@ -4,7 +4,7 @@ import fresh_tomatoes
    a list from these instances.
 
 """
-##############################################################################
+
 sent_of_a_women = media.Movie("Sent Of a Woman", "https://upload.wikimedia"
                               ".org/wikipedia/en/9/91/Scent_of_a_Woman.jpg",
                               "https://www.youtube.com/watch?v=ebDO0C-RTpU")
